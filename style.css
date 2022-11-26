@@ -1,0 +1,28 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status,#number_of_objects,#start_model
+{
+font-size: 18px;
+}
+
+canvas{
+    box-shadow: 10px 10px 10px blue;
+    margin-top: 120px;
+    border-radius: 10px;
+
+}
+.copy_right_footer{
+    position: fixed;
+    color: grey;
+    bottom: 0;
+    width: 100%;
+    background-color: cadetblue;
+    line-height: 3;   
+    text-align: center;
+   }
